@@ -7,6 +7,8 @@ The architecture focuses on foundational DevOps concepts rather than maximum fea
 Note: The overall design (including CDN and TLS termination) is actively used in my personal website.
 This repository intentionally implements a scoped subset of that design to keep the infrastructure reproducible and focused.
 ________________________________________
+![490205836-6ab23b66-a0e5-48df-8dbf-c89e14069094](https://github.com/user-attachments/assets/8d306952-0ac4-4c10-97a4-84864018171f)
+
 High-Level Architecture
 Tiers
 1. Content Delivery (Design-Level)
